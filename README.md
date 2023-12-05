@@ -1,2 +1,2 @@
 # Concurrent-Programming-Exercises
-Two simple examples of concurrent programming using C language + threads.h library
+In this repository you will find two different examples of concurrent programming. Our focus is on implementing concurrent programming techniques to protect critical code sections, ensuring that multiple threads operate harmoniously without interference.
